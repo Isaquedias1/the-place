@@ -42,3 +42,13 @@ A morte:
 O cenário:
 
 ![terra dos mortos png](https://github.com/Isaquedias1/the-place/assets/162384088/33e3ab57-6ea7-4df6-956b-f7f31e7e0e91)
+
+O resultado de tudo está acima mas aqui temos o gif e o png:
+
+Gif:
+
+![The place](https://github.com/Isaquedias1/the-place/assets/162384088/e0ee5837-e972-484a-9631-bb7907bb6990)
+
+Png:
+
+![The place](https://github.com/Isaquedias1/the-place/assets/162384088/596f7c86-ea54-4004-8c5b-b469d268b231)
